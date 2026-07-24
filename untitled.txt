@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Laptop Scholarship Form</title>
+</head>
+
+<body>
+
+<h2>Laptop Scholarship Application Form</h2>
+
+<form>
+
+<label>Full Name:</label><br>
+<input type="text" required><br><br>
+
+<label>Father's Name:</label><br>
+<input type="text" required><br><br>
+
+<label>Student CNIC / B-Form Number:</label><br>
+<input type="text" required><br><br>
+
+<label>Father's CNIC Number:</label><br>
+<input type="text" required><br><br>
+
+<label>Matric Obtained Marks:</label><br>
+<input type="number" required><br><br>
+
+<label>Matric Total Marks:</label><br>
+<input type="number" required><br><br>
+
+<label>FSc Obtained Marks:</label><br>
+<input type="number" required><br><br>
+
+<label>FSc Total Marks:</label><br>
+<input type="number" required><br><br>
+
+<label>Email Address:</label><br>
+<input type="email" required><br><br>
+
+<label>Phone Number:</label><br>
+<input type="tel" required><br><br>
+
+<label>District:</label><br>
+<input type="text" required><br><br>
+
+<input type="submit" value="Apply Now">
+
+</form>
+
+</body>
+</html>
